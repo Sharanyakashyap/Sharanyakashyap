@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sharanyakashyap
-- 👀 I’m interested in web development and iot
+- 👀 I’m interested in web development and vlsi
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on iot home automation
+- 💞️ I’m looking to collaborate on digital coms vlsi design
 - 📫 How to reach me - 
           email- sharanyar.agp@gmail.com
           instagram- sharanya_r_kashyap
